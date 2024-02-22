@@ -1,5 +1,4 @@
 # Teste_Finance
- 
 Projeto de Teste da Calculadora Financeira usando Cypress e JavaScript:
 
 Descrição do Projeto:

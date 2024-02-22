@@ -33,3 +33,6 @@ Relatórios e Melhorias:
 
 Após a execução do teste, analisar os resultados e gerar relatórios.
 Identificar falhas, se houver, e melhorar os testes para uma cobertura mais abrangente.
+
+![image](https://github.com/gclobato/Calculadora_Financeira_cypress/assets/38756533/5cc505c2-f0f6-4c9f-9630-445c1c2109b2)
+
